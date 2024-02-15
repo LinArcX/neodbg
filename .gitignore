@@ -1,0 +1,4 @@
+.vs/*
+output/*
+garbage/
+neodbg.vcxproj.user
