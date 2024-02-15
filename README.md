@@ -1,2 +1,2 @@
-# anotherDebugger
-动手打造一个 Windows 调试器
+# neodbg
+A simple win32 debugger.
